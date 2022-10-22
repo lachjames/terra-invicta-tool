@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/terra-invicta-tool/static/css/main.ddaa24ec.css",
-    "main.js": "/terra-invicta-tool/static/js/main.e2d7874a.js",
+    "main.js": "/terra-invicta-tool/static/js/main.fd9bbf95.js",
     "static/js/787.0caf6a39.chunk.js": "/terra-invicta-tool/static/js/787.0caf6a39.chunk.js",
     "index.html": "/terra-invicta-tool/index.html",
     "main.ddaa24ec.css.map": "/terra-invicta-tool/static/css/main.ddaa24ec.css.map",
-    "main.e2d7874a.js.map": "/terra-invicta-tool/static/js/main.e2d7874a.js.map",
+    "main.fd9bbf95.js.map": "/terra-invicta-tool/static/js/main.fd9bbf95.js.map",
     "787.0caf6a39.chunk.js.map": "/terra-invicta-tool/static/js/787.0caf6a39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddaa24ec.css",
-    "static/js/main.e2d7874a.js"
+    "static/js/main.fd9bbf95.js"
   ]
 }
